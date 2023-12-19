@@ -1,0 +1,66 @@
+{
+  "url": {
+    "portal_url": "https://upassuat.unisys.com",
+    "manager_url": "https://upassmanager-uat.unisys.com/"
+  },
+  "Login": {
+    "Username": "sreenivasreddyunisys+79434@gmail.com",
+    "Password": "Unisys@12345"
+  },
+  "details":{
+    "name": "sreenivas reddy",
+    "password": "Unisys@12345",
+    "dob": "05081995",
+    "phone": "9876543210",
+    "dependent_name": "Sekhar",
+    "dependent_name1": "sekhar",
+    "dependent_dob": "05081995",
+    "dependent_dob1": "05091996",
+    "edit_name": "saddikuti sreenivas reddy",
+    "edit_dob": "08051995",
+    "enter_allergies": "I don't have any allergies",
+    "address": "2501 North Harwood St",
+    "age": "27",
+    "gender_male": "Male",
+    "gender_female": "Female",
+    "secondary_email" : "sreenivasreddyunisys@gmail.com",
+    "change_phone" : "939241543",
+    "dependent_age": "27",
+    "fullname": "saddikuti sreenivas reddy",
+    "phone number": "9392415043",
+    "shipping address": "2501 North Harwood St",
+    "card Number": "4242424242424242",
+    "expiry date": "0525",
+    "cvc": "007",
+    "insurance provider": "LIC",
+    "member id": "12345",
+    "group id": "67890"
+  },
+  "Manager_App":{
+    "program_name" : "SHS-250"
+  },
+  "validation": {
+    "verify appointment" : "Appointment scheduled for sreenivas reddy.",
+    "appointment dependent" : "Appointment scheduled for Sekhar.",
+    "cancel appointment" : "Appointment Successfully Cancelled",
+    "delete health record" : "Record has been deleted.",
+    "verify order" : "Order has been placed.",
+    "verify rt pcr" : "COVID-19 RT-PCR",
+    "verify rt pcr1" : "COVID-19 Rt-Pcr",
+    "verify antibody" : "COVID-19 TEST  ANTIBODY",
+    "verify antibody1" : "COVID-19 Test  Antibody",
+    "verify license" : "Texas - Driver's License Division",
+    "student id card" : "Dallas Independent School District",
+    "verify passport" : "PASSPORT",
+    "alabama license" : "Alabama - Driver License Division",
+    "health immunization" : "IMMUNIZATION' or 'Immunization",
+    "covid vaccination" : "COVID-19 VACCINATION",
+    "covid vaccination1" : "COVID-19 Vaccination",
+    "covid pcr" : "COVID PCR TEST",
+    "covid pcr1" : "Covid PCR Test",
+    "antigen inspire" : "COVID-19 ANTIGEN",
+    "antigen inspire1" : "COVID-19 Antigen",
+    "alaska license" : "Alaska - Division of Motor Vehicles"
+  }
+}
+

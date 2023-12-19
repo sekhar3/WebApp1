@@ -1,0 +1,31 @@
+03/17/2022 07:17:42 AM - WebDriverClass - INFO: Chrome Driver is initializing
+03/17/2022 07:17:48 AM - SeleniumDriver - INFO: Web Page Launched with URL : https://upassuat.unisys.com
+03/17/2022 09:21:04 AM - SeleniumDriver - INFO: Web Page Launched with URL : https://upassuat.unisys.com
+03/17/2022 09:21:10 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='continue']
+03/17/2022 09:21:11 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='continue'])[2]
+03/17/2022 09:21:12 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='continue'])[3]
+03/17/2022 09:21:20 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://button[contains(text(),'Continue')]
+03/17/2022 09:21:28 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='Add']
+03/17/2022 09:21:31 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'][1]
+03/17/2022 09:21:34 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'])[2]
+03/17/2022 09:21:34 AM - SeleniumDriver - INFO: Enter Text on Element with LocatorType: xpath and with the locatorValue :(//input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'])[2]
+03/17/2022 09:21:41 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='Account Details'])[2]
+03/17/2022 09:21:42 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='edit']
+03/17/2022 09:21:43 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@type='text']
+03/17/2022 09:21:47 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@type='tel']
+03/17/2022 09:21:48 AM - SeleniumDriver - INFO: Enter Text on Element with LocatorType: xpath and with the locatorValue ://input[@type='tel']
+03/17/2022 09:22:35 AM - SeleniumDriver - ERROR: Element is not visible
+03/17/2022 09:23:57 AM - SeleniumDriver - INFO: Web Page Launched with URL : https://upassuat.unisys.com
+03/17/2022 09:24:03 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='continue']
+03/17/2022 09:24:04 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='continue'])[2]
+03/17/2022 09:24:04 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='continue'])[3]
+03/17/2022 09:24:11 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://button[contains(text(),'Continue')]
+03/17/2022 09:24:18 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='Add']
+03/17/2022 09:24:19 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'][1]
+03/17/2022 09:24:22 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'])[2]
+03/17/2022 09:24:23 AM - SeleniumDriver - INFO: Enter Text on Element with LocatorType: xpath and with the locatorValue :(//input[@class='css-11aywtz r-cqee49 r-16y2uox r-ubezar r-1mwlp6a r-crgep1 r-1mdbw0j r-779j7e r-wk8lta r-1h71sx3 r-fdjqy7 r-184en5c'])[2]
+03/17/2022 09:24:29 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue :(//div[text()='Account Details'])[2]
+03/17/2022 09:24:30 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://div[text()='edit']
+03/17/2022 09:24:31 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@type='text']
+03/17/2022 09:24:35 AM - SeleniumDriver - INFO: Clicked on Element with LocatorType: xpath and with the locatorValue ://input[@type='tel']
+03/17/2022 09:24:36 AM - SeleniumDriver - INFO: Enter Text on Element with LocatorType: xpath and with the locatorValue ://input[@type='tel']
